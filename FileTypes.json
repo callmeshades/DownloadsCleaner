@@ -1,0 +1,186 @@
+{
+  "Archives": [
+    "zip",
+    "7z",
+    "rar",
+    "deb",
+    "arj",
+    "pkg",
+    "rpm",
+    "tar.gz",
+    "gz",
+    "tar",
+    "z"
+  ],
+  "Audio": [
+    "aif",
+    "cda",
+    "mid",
+    "midi",
+    "mp3",
+    "mpa",
+    "ogg",
+    "wav",
+    "wma",
+    "wpl"
+  ],
+  "Disc & Media": [
+    "bin",
+    "dmg",
+    "iso",
+    "toast",
+    "vcd"
+  ],
+  "Documents": [
+    "csv",
+    "doc",
+    "key",
+    "odp",
+    "pps",
+    "ppt",
+    "pptx",
+    "ods",
+    "xls",
+    "xlsm",
+    "xlsx",
+    "docx",
+    "odt",
+    "pdf",
+    "rtf",
+    "tex",
+    "txt",
+    "wpd",
+    "CSV"
+  ],
+  "Data & Databases": [
+    "dat",
+    "db",
+    "dbf",
+    "log",
+    "mbd",
+    "sav",
+    "sql",
+    "tar",
+    "xml"
+  ],
+  "Emails": [
+    "email",
+    "eml",
+    "emlx",
+    "msg",
+    "oft",
+    "ost",
+    "pst",
+    "vcf"
+  ],
+  "Executables": [
+    "apk",
+    "bat",
+    "bin",
+    "com",
+    "exe",
+    "gadget",
+    "msi",
+    "wsf"
+  ],
+  "Fonts": [
+    "fnt",
+    "fon",
+    "otf",
+    "ttf"
+  ],
+  "Design": [
+    "ai",
+    "psd",
+    "afphoto",
+    "afdesign"
+  ],
+  "Java": [
+    "jar",
+    "java",
+    "class",
+    "jsp"
+  ],
+  "Python": [
+    "py",
+    "pyc"
+  ],
+  "Images": [
+    "jpg",
+    "jpeg",
+    "bmp",
+    "gif",
+    "ico",
+    "png",
+    "ps",
+    "svg",
+    "tif",
+    "tiff",
+    "icns",
+    "jfif",
+    "JPG",
+    "PNG",
+    "GIF"
+  ],
+  "Internet": [
+    "asp",
+    "aspx",
+    "cer",
+    "cfm",
+    "cgi",
+    "css",
+    "htm",
+    "html",
+    "js",
+    "part",
+    "php",
+    "rss",
+    "xhtml",
+    "ts",
+    "torrent",
+    "json"
+  ],
+  "C": [
+    "c",
+    "h",
+    "cpp"
+  ],
+  "DotNet": [
+    "cs",
+    "vb"
+  ],
+  "Perl": [ "pl" ],
+  "Bash": [ "sh" ],
+  "Swift": [ "swift" ],
+  "System": [
+    "bak",
+    "cab",
+    "cfg",
+    "cpl",
+    "cur",
+    "dll",
+    "dmp",
+    "drv",
+    "ini",
+    "lnk",
+    "sys",
+    "tmp"
+  ],
+  "Videos": [
+    "3g2",
+    "3gp",
+    "avi",
+    "flv",
+    "h264",
+    "m4v",
+    "mkv",
+    "mov",
+    "mp4",
+    "mpg",
+    "mpeg",
+    "rm",
+    "swf",
+    "vob",
+    "wmv"
+  ]
+}
