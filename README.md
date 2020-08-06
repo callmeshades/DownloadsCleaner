@@ -1,4 +1,5 @@
-*USE THIS APPLICATION AT YOUR OWN RISK*\n
+*USE THIS APPLICATION AT YOUR OWN RISK*
+
 Applications creates folders based off FileTypes.json.
 
 It takes the key for each JSON object. Checks if a folder with that key exists, if not it will create it. After this is done for all keys in the JsonTypes file it will proceed to check all files in the current users download folder.
