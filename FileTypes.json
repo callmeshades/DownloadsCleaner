@@ -50,7 +50,10 @@
     "tex",
     "txt",
     "wpd",
-    "CSV"
+    "CSV",
+    "ics",
+    "mobi",
+    "epub"
   ],
   "Data & Databases": [
     "dat",
@@ -93,7 +96,8 @@
     "ai",
     "psd",
     "afphoto",
-    "afdesign"
+    "afdesign",
+    "afbrushes"
   ],
   "Java": [
     "jar",
@@ -120,7 +124,8 @@
     "jfif",
     "JPG",
     "PNG",
-    "GIF"
+    "GIF",
+    "heic"
   ],
   "Internet": [
     "asp",
@@ -147,7 +152,8 @@
   ],
   "DotNet": [
     "cs",
-    "vb"
+    "vb",
+    "vsix"
   ],
   "Perl": [ "pl" ],
   "Bash": [ "sh" ],
@@ -182,5 +188,9 @@
     "swf",
     "vob",
     "wmv"
+  ],
+  "SSH": [
+    "ppk",
+    "pem"
   ]
 }
